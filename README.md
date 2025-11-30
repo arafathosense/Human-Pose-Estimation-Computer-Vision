@@ -28,7 +28,7 @@ This project implements real-time human pose estimation using MediaPipe Pose and
 
 
 # How to Run
-            python pose_estimation.py
+             Pose_Estimation.py
 
 Press Q to exit the program.
 
